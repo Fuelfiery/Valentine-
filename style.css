@@ -14,7 +14,7 @@ body {
 }
 
 .photo {
-    width: 300px; /* Adjust size as needed */
+    width: 150px 45px; /* Adjust size as needed */
     border-radius: 15px;
     margin: 20px 0;
 }
